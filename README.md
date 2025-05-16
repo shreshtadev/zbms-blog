@@ -2,6 +2,8 @@
 
 Blog Platform for ZBMS
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/606bee56-d867-4efe-a05c-a8b3936bdfd0/deploy-status)](https://app.netlify.com/projects/zbms-gallery/deploys)
+
 
 ### Development
 
